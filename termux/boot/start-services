@@ -1,0 +1,9 @@
+#!/data/data/com.termux/files/usr/bin/bash
+# Termux:Boot runs this after the phone starts. Copy to ~/.termux/boot/start-services (chmod +x).
+termux-wake-lock
+sshd
+# start the Hermes gateway only once a bot token is configured
+[ -n "$(grep -s ^TELEGRAM_BOT_TOKEN= $PREFIX/var/lib/proot-distro/containers/debian/rootfs/root/.hermes/.env)" ] && $HOME/bin/hermes-gateway.sh
+[ -x $HOME/bin/syncthing-start.sh ] && $HOME/bin/syncthing-start.sh
+$HOME/bin/tailscale-start.sh
+$HOME/bin/money-server.sh

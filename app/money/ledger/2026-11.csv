@@ -1,0 +1,33 @@
+date,type,category,merchant,description,amount_idr,payment_method,source,note,who
+2026-11-01,expense,dining,Warung Padang,nasi padang,43000,QRIS,sample,,me
+2026-11-02,expense,health,Pharmacy,medicine,116000,debit,sample,,me
+2026-11-02,expense,groceries,Indomaret,household groceries,160000,QRIS,sample,,partner
+2026-11-03,expense,household,Hardware store,small home items,133000,cash,sample,,me
+2026-11-03,expense,kids,Toy store,toys,155000,QRIS,sample,,partner
+2026-11-03,expense,kids,Toy store,toys,77000,QRIS,sample,,partner
+2026-11-03,expense,subscriptions,Anthropic,Claude subscription,330000,credit card,sample,,me
+2026-11-04,expense,kids,Toy store,toys,66000,QRIS,sample,,partner
+2026-11-04,expense,dining,Coffee shop,coffee,27000,GoPay,sample,,me
+2026-11-05,expense,personal,Online shop,clothes,185000,ShopeePay,sample,,partner
+2026-11-05,expense,housing,Housing estate,IPL (estate fee),300000,transfer,sample,,me
+2026-11-07,expense,health,Pharmacy,medicine,37000,debit,sample,,me
+2026-11-10,expense,dining,Warung Padang,nasi padang,38000,QRIS,sample,,me
+2026-11-10,expense,groceries,Supermarket,weekly groceries,441000,debit,sample,,partner
+2026-11-11,expense,groceries,Indomaret,household groceries,58000,QRIS,sample,,partner
+2026-11-11,expense,dining,Coffee shop,coffee,45000,GoPay,sample,,me
+2026-11-12,expense,dining,Warung Padang,nasi padang,41000,QRIS,sample,,me
+2026-11-12,expense,transport,Pertamina,fuel,141000,debit,sample,,me
+2026-11-13,expense,transport,Ride-hailing,ride,46000,OVO,sample,,partner
+2026-11-13,expense,groceries,Supermarket,weekly groceries,310000,debit,sample,,partner
+2026-11-14,expense,personal,Online shop,clothes,352000,ShopeePay,sample,,partner
+2026-11-14,expense,personal,Online shop,clothes,264000,ShopeePay,sample,,partner
+2026-11-16,expense,groceries,Supermarket,weekly groceries,643000,debit,sample,,partner
+2026-11-17,expense,transport,Pertamina,fuel,175000,debit,sample,,me
+2026-11-18,expense,dining,Warung Padang,nasi padang,37000,QRIS,sample,,me
+2026-11-18,expense,groceries,Indomaret,household groceries,94000,QRIS,sample,,partner
+2026-11-18,expense,household,Hardware store,small home items,125000,cash,sample,,me
+2026-11-19,expense,household,Hardware store,small home items,37000,cash,sample,,me
+2026-11-20,expense,transport,Pertamina,fuel,74000,debit,sample,,me
+2026-11-20,expense,transport,Pertamina,fuel,186000,debit,sample,,me
+2026-11-21,expense,dining,Warung Padang,nasi padang,32000,QRIS,sample,,me
+2026-11-22,expense,household,Hardware store,small home items,172000,cash,sample,,me

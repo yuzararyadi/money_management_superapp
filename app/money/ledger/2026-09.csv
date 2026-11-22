@@ -1,0 +1,18 @@
+date,type,category,merchant,description,amount_idr,payment_method,source,note,who
+2026-09-25,expense,dining,Warung Padang,nasi padang,33000,QRIS,sample,,me
+2026-09-25,income,income,Employer,salary,25000000,transfer,sample,,me
+2026-09-26,expense,groceries,Indomaret,household groceries,59000,QRIS,sample,,partner
+2026-09-26,expense,household,Hardware store,small home items,55000,cash,sample,,me
+2026-09-26,expense,transport,Ride-hailing,ride,53000,OVO,sample,,partner
+2026-09-26,expense,education,School,school fee,1500000,transfer,sample,,me
+2026-09-26,expense,family-support,Parents,monthly support,1000000,transfer,sample,,me
+2026-09-26,sinking-fund,emergency-fund,Money market fund,emergency fund top-up,3000000,transfer,sample,,me
+2026-09-27,expense,electricity,PLN,electricity token,500000,QRIS,sample,,me
+2026-09-27,investment,investment,Bibit,monthly investment,2000000,transfer,sample,,me
+2026-09-28,expense,dining,Coffee shop,coffee,26000,GoPay,sample,,me
+2026-09-28,expense,groceries,Supermarket,weekly groceries,477000,debit,sample,,partner
+2026-09-28,expense,utilities,Internet provider,home internet,350000,auto-debit,sample,,me
+2026-09-29,expense,groceries,Supermarket,weekly groceries,376000,debit,sample,,partner
+2026-09-29,expense,groceries,Supermarket,weekly groceries,539000,debit,sample,,partner
+2026-09-30,expense,groceries,Indomaret,household groceries,72000,QRIS,sample,,partner
+2026-09-30,expense,dining,Coffee shop,coffee,46000,GoPay,sample,,me

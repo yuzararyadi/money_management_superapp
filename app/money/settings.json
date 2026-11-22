@@ -1,0 +1,13 @@
+{
+  "people": {
+    "me": "Alex",
+    "partner": "Sam"
+  },
+  "partner_merchant_prefixes": [],
+  "private_names": ["Budi"],
+  "_help": {
+    "people": "Display names. The ledger stores who = me / partner; the dashboard and Hermes use these names.",
+    "partner_merchant_prefixes": "Ledger rows with an empty `who` whose merchant starts with one of these count as the partner's (e.g. [\"Astro\"]).",
+    "private_names": "Extra names (kids, friends) hidden as Person 1, 2… when the app is opened with ?demo=1 (for screenshots you share)."
+  }
+}

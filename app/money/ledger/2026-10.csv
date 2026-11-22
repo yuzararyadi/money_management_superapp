@@ -1,0 +1,65 @@
+date,type,category,merchant,description,amount_idr,payment_method,source,note,who
+2026-10-01,expense,health,Pharmacy,medicine,38000,debit,sample,,me
+2026-10-01,expense,health,Pharmacy,medicine,107000,debit,sample,,me
+2026-10-01,expense,kids,Toy store,toys,63000,QRIS,sample,,partner
+2026-10-02,expense,groceries,Indomaret,household groceries,75000,QRIS,sample,,partner
+2026-10-03,expense,kids,Toy store,toys,88000,QRIS,sample,,partner
+2026-10-03,expense,subscriptions,Anthropic,Claude subscription,330000,credit card,sample,,me
+2026-10-04,expense,groceries,Supermarket,weekly groceries,549000,debit,sample,,partner
+2026-10-04,expense,transport,Pertamina,fuel,197000,debit,sample,,me
+2026-10-05,expense,dining,Warung Padang,nasi padang,23000,QRIS,sample,,me
+2026-10-05,expense,health,Pharmacy,medicine,105000,debit,sample,,me
+2026-10-05,expense,dining,Coffee shop,coffee,37000,GoPay,sample,,me
+2026-10-05,expense,housing,Housing estate,IPL (estate fee),300000,transfer,sample,,me
+2026-10-07,expense,groceries,Supermarket,weekly groceries,546000,debit,sample,,partner
+2026-10-07,expense,groceries,Indomaret,household groceries,94000,QRIS,sample,,partner
+2026-10-08,expense,household,Hardware store,small home items,142000,cash,sample,,me
+2026-10-08,expense,transport,Ride-hailing,ride,46000,OVO,sample,,partner
+2026-10-09,expense,personal,Online shop,clothes,290000,ShopeePay,sample,,partner
+2026-10-09,expense,transport,Pertamina,fuel,115000,debit,sample,,me
+2026-10-10,expense,dining,Coffee shop,coffee,28000,GoPay,sample,,me
+2026-10-11,expense,transport,Pertamina,fuel,188000,debit,sample,,me
+2026-10-11,expense,personal,Online shop,clothes,280000,ShopeePay,sample,,partner
+2026-10-12,expense,personal,Online shop,clothes,251000,ShopeePay,sample,,partner
+2026-10-12,expense,health,Pharmacy,medicine,40000,debit,sample,,me
+2026-10-12,expense,groceries,Supermarket,weekly groceries,518000,debit,sample,,partner
+2026-10-13,expense,dining,Warung Padang,nasi padang,45000,QRIS,sample,,me
+2026-10-13,expense,transport,Ride-hailing,ride,25000,OVO,sample,,partner
+2026-10-14,expense,kids,Toy store,toys,60000,QRIS,sample,,partner
+2026-10-14,expense,groceries,Supermarket,weekly groceries,543000,debit,sample,,partner
+2026-10-15,expense,transport,Ride-hailing,ride,37000,OVO,sample,,partner
+2026-10-15,expense,transport,Ride-hailing,ride,54000,OVO,sample,,partner
+2026-10-16,expense,health,Pharmacy,medicine,134000,debit,sample,,me
+2026-10-16,expense,personal,Online shop,clothes,136000,ShopeePay,sample,,partner
+2026-10-18,expense,personal,Online shop,clothes,134000,ShopeePay,sample,,partner
+2026-10-20,expense,transport,Pertamina,fuel,167000,debit,sample,,me
+2026-10-20,expense,transport,Pertamina,fuel,151000,debit,sample,,me
+2026-10-20,expense,transport,Ride-hailing,ride,16000,OVO,sample,,partner
+2026-10-21,expense,transport,Ride-hailing,ride,26000,OVO,sample,,partner
+2026-10-21,expense,health,Pharmacy,medicine,45000,debit,sample,,me
+2026-10-22,expense,groceries,Indomaret,household groceries,97000,QRIS,sample,,partner
+2026-10-22,expense,transport,Pertamina,fuel,84000,debit,sample,,me
+2026-10-23,expense,dining,Coffee shop,coffee,38000,GoPay,sample,,me
+2026-10-23,expense,kids,Toy store,toys,180000,QRIS,sample,,partner
+2026-10-23,expense,groceries,Supermarket,weekly groceries,337000,debit,sample,,partner
+2026-10-24,expense,kids,Toy store,toys,194000,QRIS,sample,,partner
+2026-10-24,expense,transport,Pertamina,fuel,86000,debit,sample,,me
+2026-10-25,expense,household,Hardware store,small home items,103000,cash,sample,,me
+2026-10-25,expense,kids,Toy store,toys,144000,QRIS,sample,,partner
+2026-10-25,income,income,Employer,salary,25000000,transfer,sample,,me
+2026-10-25,expense,installment,Paylater,new phone installment 2/6,750000,paylater,sample,D1 installment 2/6,me
+2026-10-25,lend-repaid,debt,Budi,partial repayment,300000,transfer,sample,L1 partial repayment,me
+2026-10-26,expense,kids,Toy store,toys,110000,QRIS,sample,,partner
+2026-10-26,expense,dining,Warung Padang,nasi padang,23000,QRIS,sample,,me
+2026-10-26,expense,dining,Warung Padang,nasi padang,25000,QRIS,sample,,me
+2026-10-26,expense,education,School,school fee,1500000,transfer,sample,,me
+2026-10-26,expense,family-support,Parents,monthly support,1000000,transfer,sample,,me
+2026-10-26,sinking-fund,emergency-fund,Money market fund,emergency fund top-up,3000000,transfer,sample,,me
+2026-10-27,expense,dining,Coffee shop,coffee,25000,GoPay,sample,,me
+2026-10-27,expense,electricity,PLN,electricity token,500000,QRIS,sample,,me
+2026-10-27,investment,investment,Bibit,monthly investment,2000000,transfer,sample,,me
+2026-10-28,expense,health,Pharmacy,medicine,54000,debit,sample,,me
+2026-10-28,expense,transport,Pertamina,fuel,124000,debit,sample,,me
+2026-10-28,expense,utilities,Internet provider,home internet,350000,auto-debit,sample,,me
+2026-10-30,expense,kids,Toy store,toys,190000,QRIS,sample,,partner
+2026-10-31,expense,health,Pharmacy,medicine,104000,debit,sample,,me

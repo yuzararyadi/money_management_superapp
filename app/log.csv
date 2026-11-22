@@ -1,0 +1,4 @@
+date,month_number,actions_summary,portfolio_value_idr,benchmark_nav,ihsg_close
+2026-09-10,1,"BUY Sample Money Market Fund IDR 2,000,000",2000000,100,7100
+2026-10-10,2,"HOLD; BUY Sample Government Bond IDR 2,000,000",4030000,101.2,7180
+2026-11-10,3,"HOLD all; BUY Sample IDX30 Index Fund IDR 2,000,000",6150000,102.9,7240
