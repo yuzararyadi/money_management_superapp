@@ -4,11 +4,11 @@ Read by the agents (Claude Code / Hermes) for context. Not parsed by the
 dashboard, so write it any way you like.
 
 ## Household
-- Alex (owner) and Sam (partner), two kids.
+- Rama (owner) and Sinta (partner), two kids.
 - Payday: the 25th of each month (the dashboard's "payday cycle" runs 25th → 24th).
 
 ## Income
-- Take-home pay: ~IDR 25,000,000 / month (Alex).
+- Take-home pay: ~IDR 25,000,000 / month (Rama).
 
 ## Fixed monthly costs
 | Item | Amount (IDR) | When |

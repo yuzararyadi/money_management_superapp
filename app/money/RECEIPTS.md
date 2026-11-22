@@ -70,7 +70,7 @@ names, the ledger stores `me` / `partner`.
 - `partner` when the message starts with "Pengeluaran <partner name>",
   "<partner name>:", "Pengeluaran istri/suami", "Partner:" or similar (then
   every item in that message is `partner`), or when an item itself names the
-  partner (e.g. "Sam beli baju 150rb").
+  partner (e.g. "Sinta beli baju 150rb").
 - `me` when it says "Pengeluaran <owner name>", "saya" or similar.
 - If the owner forwards a receipt and it's unclear, use `me` (they can ask
   for a correction).

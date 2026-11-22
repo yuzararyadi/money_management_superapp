@@ -55,7 +55,7 @@ cd money_management_superapp
 MONEY_DASH_CONSOLE=1 python serve_dashboard.py      # Windows PowerShell: $env:MONEY_DASH_CONSOLE=1; python serve_dashboard.py
 ```
 
-Open http://127.0.0.1:8765. You'll see the sample household "Alex & Sam".
+Open http://127.0.0.1:8765. You'll see the sample household "Rama & Sinta".
 
 - The PIN for adding data is created on the first start in `~/.money-dashboard/pin.txt`. Change it there if you like.
 - "Ask Hermes" needs Hermes installed (see below). Until then, use "Or add a row manually".
